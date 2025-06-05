@@ -1,9 +1,9 @@
 <h2>مرحبا 👋, أنا <a href="#">مصعب المرابط</a></h2>
-<p>أنا شاب ليبي عمري 18 سنة، وأنا جديد في عالم البرمجة. أحب جميع أنواع البرمجة وأتعلم حالياً الأساسيات. أسعى لتطوير مهاراتي في هذا المجال الممتع.</p>
+<p>أنا شاب ليبي عمري 18 سنة، وأنا جديد في عالم البرمجة. أسعى لتطوير مهاراتي في هذا المجال الممتع.</p>
 
 <p><a href="#"><img src="https://img.shields.io/badge/-الموقع الشخصي-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=#" alt="Website Badge"></a> <a href="#"><img src="https://img.shields.io/badge/-ليبيا-006300?style=flat-square&amp;labelColor=006300&amp;logo=GoogleEarth&amp;link=#" alt="Libya Badge"></a></p>
 
-<p>🔥 البرمجة هي مستقبل العالم 🔥</p>
+
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
